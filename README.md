@@ -5,7 +5,7 @@ Django Curated Resources is a project of mine that reflects upon the principles 
 
 Hope this project helps! ♥🙌
 
-For getting started with any topic, I suggest trying it out before you actually move on to learning more about the technology through it's documentation first, trying out one of the projects from the documentation's tutorials yourself and playing with the code, learning through it. Once you're comfortable playing around with the code, it would be a good idea to use Corey Schafer's tutorials as a reference point for learning more about Django.
+For getting started with any topic, I suggest trying it out before you actually move on to learning more about the technology through it's documentation first, trying out one of the projects from the documentation's tutorials yourself and playing with the code, learning through it. Once you're comfortable playing around with the code, it would be a good idea to use [Corey Schafer's DJANGO Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) as a reference point for learning more about Django.
 
 [DJANGO DOCUMENTATION ♥](https://docs.djangoproject.com/en/3.0/topics/install/#installing-official-release)
 
