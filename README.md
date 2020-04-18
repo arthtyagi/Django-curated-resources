@@ -11,7 +11,7 @@ For getting started with any topic, I suggest trying it out before you actually 
 
 ##### Django Documentation as of April 18, 2020
 
-
+![Annotation 2020-04-18 230414](https://user-images.githubusercontent.com/41021374/79645147-180beb80-81cb-11ea-9229-3dba3574e7a5.png)
 
 [Corey Schafer's DJANGO Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
