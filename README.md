@@ -21,6 +21,10 @@ For getting started with any topic, I suggest trying it out before you actually 
  
 You are expected to know the basic concepts of Python along with how HTML and CSS tie in together ( preferably JS too ).
 
+Check out [this video.](https://www.youtube.com/watch?v=EpZbD_ELhAQ&t=565s)
+
+![image](https://user-images.githubusercontent.com/41021374/79645376-8f8e4a80-81cc-11ea-9884-ba773c4f6d0e.png)
+
 - How long would learning Django take?
 
 Django is an intense framework and has a lot to offer which in turn means a lot to learn, so don't expect to master it anytime soon or anything but you can definitely learn enough to start building your own apps and figuring out everything yourself ( including figuring out how to search your issues effectively on Google/other search engine) the way a software/web developer would usually do.
