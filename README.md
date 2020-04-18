@@ -15,8 +15,6 @@ For getting started with any topic, I suggest trying it out before you actually 
 
 [Corey Schafer's DJANGO Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
-
-
 ### FAQs 🙋🏻‍♀️
 
 - How much Django do I need to know before starting out with Django?
@@ -32,7 +30,6 @@ Django is an intense framework and has a lot to offer which in turn means a lot 
 Django framework is built keeping in mind the larger projects hence is one of the most robust frameworks to get started with for larger projects. However for really simple and small projects, Flask is a good alternative due to a less complicated tree structure of required files to run the app but Django would work just as fine. 
 
 Most importantly though, don't give up and eventually you will span over the whole Django framework and get really good at it, so just hang in there. 🪂
-
 
 ### Future Updates 🔮
 - Future updates would include a newer theme of the website in Bootstrap 😎 integrated with [DomeCode💻](https://arthtyagi.me/domecode)
