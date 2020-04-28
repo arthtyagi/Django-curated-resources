@@ -36,5 +36,7 @@ Django framework is built keeping in mind the larger projects hence is one of th
 Most importantly though, don't give up and eventually you will span over the whole Django framework and get really good at it, so just hang in there. 🪂
 
 ### Future Updates 🔮
+- **APR 28** : Going to be adding some documents redirecting to my upcoming Django Projects apart from DomeCode that I do for fun here.
+
 - Future updates would include a newer theme of the website in Bootstrap 😎 integrated with [DomeCode💻](https://arthtyagi.me/domecode)
 
