@@ -3,7 +3,7 @@ Django Curated Resources is a project of mine that reflects upon the principles 
 
 ##### NOTE:  DailyCode and Django-Curated-Resources are the resource modules that would be available in DomeCode, a project created by me to help new coders learn from resources compiled from all over the internet, solve problems in our Remote Code Execution Environment in languages including Python, Java and, C++ initially.
 
-Hope this project helps! ♥🙌
+Hope this project helps! ♥ 🙌
 
 For getting started with any topic, I suggest trying it out before you actually move on to learning more about the technology through it's documentation first, trying out one of the projects from the documentation's tutorials yourself and playing with the code, learning through it. Once you're comfortable playing around with the code, it would be a good idea to use [Corey Schafer's DJANGO Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) as a reference point for learning more about Django.
 
@@ -15,7 +15,7 @@ For getting started with any topic, I suggest trying it out before you actually 
 
 [Corey Schafer's DJANGO Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
-### FAQs 🙋🏻‍♀️
+### FAQs 🙋
 
 - How much Django do I need to know before starting out with Django?
  
@@ -38,5 +38,5 @@ Most importantly though, don't give up and eventually you will span over the who
 ### Future Updates 🔮
 - **APR 28** : Going to be adding some documents redirecting to my upcoming Django Projects apart from DomeCode that I do for fun here.
 
-- Future updates would include a newer theme of the website in Bootstrap 😎 integrated with [DomeCode💻](https://arthtyagi.me/domecode)
+- Future updates would include a newer theme of the website in Bootstrap 😎 integrated with [DomeCode 💻](https://arthtyagi.me/domecode)
 
